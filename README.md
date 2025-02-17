@@ -3,7 +3,7 @@
 I’m a passionate freelance developer and language learner with a focus on web technologies and personal development.
 
 - 👀 I’m interested in **Symfony**, **Spring Boot**, **Angular**, **Docker**, **MongoDB**, and **interpreter roles**.
-- 🌱 I’m currently learning **Turkish** and **Bulgarian** to enhance my communication skills and expand my career opportunities.
+- 🌱 I’m currently improving my skills in **English**, **Turkish** and **Bulgarian** to enhance my communication skills and expand my professionnal opportunities.
 - 💞️ I’m looking to collaborate on **tech projects**, **open-source contributions**, and **language interpretation** tasks, both remote and part-time.
 - 📫 How to reach me: You can contact me via **email** at [claude@cours-informatique-a-distance.fr](mailto:claude@cours-informatique-a-distance.fr) or through **LinkedIn** at [https://www.linkedin.com/in/claude-malinguaggi-046568172/](https://www.linkedin.com/in/claude-malinguaggi-046568172/).
 - 😄 Pronouns: **He/Him** or **They/Them** (if you prefer gender-neutral pronouns).
