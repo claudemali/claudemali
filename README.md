@@ -13,3 +13,5 @@ I’m a passionate freelance developer and language learner with a focus on web 
 claudemali/claudemali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+⚠️ This project is licensed under a proprietary license. Any use, modification or distribution without written permission is prohibited.
